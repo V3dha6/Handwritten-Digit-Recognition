@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyd
+*.dll
+*.exe
+*.zip
+*.tar.gz
+*.h5
+*.model
+*.pickle
+*.pkl
+*.ipynb_checkpoints/
